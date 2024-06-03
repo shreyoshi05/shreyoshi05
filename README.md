@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreyoshi05
 - 👀 I’m interested in technology and programming
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me shreyoshighosh2005@gmail.com
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: I like to explore new places,new things
