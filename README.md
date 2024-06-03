@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyoshi05
-- 👀 I’m interested in 
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shreyoshighosh2005@gmail.com
