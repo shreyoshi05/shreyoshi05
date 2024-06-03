@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shreyoshi05
-- 👀 I’m interested in technology
+- 👀 I’m interested in technology and programming
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shreyoshighosh2005@gmail.com
 - 😄 Pronouns:she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like to explore new places,new things
 
 <!---
 shreyoshi05/shreyoshi05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
