@@ -1,5 +1,11 @@
 # 💫 Hi 👋, I'm Shreyoshi Ghosh
-I'm a third-year B.Tech CSE student with a keen interest in machine learning, data structures, and scalable solutions. Currently honing my skills in PyTorch, C++, Java. I take on challenges in AI and DSA, always aiming to create efficient and impactful systems. Let's connect and collaborate on something exciting! 🚀
+I'm a 3rd year B.Tech CSE student, 
+and aspiring ML engineer passionate about building intelligent systems. 
+Actively working on RAG pipelines, LLM agents, and NLP applications. 
+Focused on mastering PyTorch, LangChain, and LlamaIndex, I tackle 
+challenging problems in AI, DSA, and scalable system design with curiosity 
+and determination. Always open to collaborations, research opportunities, 
+and interesting builds ! 🚀
 
 Email Me 👉 ✉️ **shreyoshighosh2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
