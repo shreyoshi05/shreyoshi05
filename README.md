@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shreyoshi Ghosh
-I'm a 3rd year B.Tech CSE student, 
+I'm a final year B.Tech CSE student, 
 and aspiring AI engineer passionate about building intelligent systems. 
 Actively working on RAG pipelines, LLM agents, and NLP applications. 
 Focused on mastering PyTorch, LangChain, and Langgraph, I tackle 
